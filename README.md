@@ -1,6 +1,6 @@
 # ExceptionNotification::Shoryuken
 
-This Ruby gem is an extension of the [exception_notification](https://github.com/smartinez87/exception_notification) gem, and it provde provides a set of notifiers for sending notifications when errors occur in [Shoryuken](https://github.com/phstc/shoryuken) worker. This is useful if you use Shoryuken worker as asynchronous 
+This Ruby gem is an extension of the [exception_notification](https://github.com/smartinez87/exception_notification) gem, and provides a set of notifiers for sending notifications when errors occur in [Shoryuken](https://github.com/phstc/shoryuken) worker. This is useful if you use Shoryuken worker as asynchronous 
 process.
 
 ## Installation
