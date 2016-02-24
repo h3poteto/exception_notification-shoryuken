@@ -23,7 +23,7 @@ Or install it yourself as:
 
 Add `require` in your initializer which setup exception_notification like `config/initializers/exception_notification.rb`:
 
-```
+```ruby
 require 'exception_notification/shoryuken'
 
 ExceptionNotification.configure do |config|
