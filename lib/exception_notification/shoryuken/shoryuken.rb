@@ -8,7 +8,7 @@ module ExceptionNotification
         begin
           yield
         rescue Exception => exception
-          ExceptionNotifier.notify_exception(exception, :data => { :shoryuken => body})
+          ExceptionNotifier.notify_exception(exception, :data => { :sqs_msg => sqs_msg })
           raise exception
         end
       end
