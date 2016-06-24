@@ -8,7 +8,7 @@ module ExceptionNotification
         begin
           yield
         rescue Exception => exception
-          ExceptionNotifier.notify_exception(exception, :data => { :sqs_msg => sqs_msg })
+          ExceptionNotifier.notify_exception(exception, :data => { :sqs_msg => sqs_msg.inspect })
           raise exception
         end
       end
