@@ -1,6 +1,10 @@
 # ExceptionNotification::Shoryuken
+[![Build Status](https://travis-ci.com/h3poteto/exception_notification-shoryuken.svg?branch=master)](https://travis-ci.com/h3poteto/exception_notification-shoryuken)
+[![GitHub release](https://img.shields.io/github/release/h3poteto/exception_notification-shoryuken.svg)](https://github.com/h3poteto/whalebird-desktop/releases)
+[![Gem](https://img.shields.io/gem/v/exception_notification-shoryuken.svg)](https://rubygems.org/gems/exception_notification-shoryuken)
+![Gem](https://img.shields.io/gem/dt/exception_notification-shoryuken.svg)
 
-This Ruby gem is an extension of the [exception_notification](https://github.com/smartinez87/exception_notification) gem, and provides a set of notifiers for sending notifications when errors occur in [Shoryuken](https://github.com/phstc/shoryuken) worker. This is useful if you use Shoryuken worker as asynchronous 
+This Ruby gem is an extension of the [exception_notification](https://github.com/smartinez87/exception_notification) gem, and provides a set of notifiers for sending notifications when errors occur in [Shoryuken](https://github.com/phstc/shoryuken) worker. This is useful if you use Shoryuken worker as asynchronous
 process.
 
 ## Installation
