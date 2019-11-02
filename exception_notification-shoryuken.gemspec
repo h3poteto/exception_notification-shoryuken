@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'exception_notification', "~> 4"
   spec.add_runtime_dependency 'shoryuken', ">= 4.0", "<= 5.1"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency 'aws-sdk-sqs', "~> 1.13"
 end
