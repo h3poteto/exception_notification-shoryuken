@@ -1,5 +1,5 @@
 # ExceptionNotification::Shoryuken
-[![Build Status](https://travis-ci.com/h3poteto/exception_notification-shoryuken.svg?branch=master)](https://travis-ci.com/h3poteto/exception_notification-shoryuken)
+[![Test](https://github.com/h3poteto/exception_notification-shoryuken/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/h3poteto/exception_notification-shoryuken/actions/workflows/test.yml)
 [![GitHub release](https://img.shields.io/github/release/h3poteto/exception_notification-shoryuken.svg)](https://github.com/h3poteto/exception_notification-shoryuken/releases)
 [![Gem](https://img.shields.io/gem/v/exception_notification-shoryuken.svg)](https://rubygems.org/gems/exception_notification-shoryuken)
 ![Gem](https://img.shields.io/gem/dt/exception_notification-shoryuken.svg)
